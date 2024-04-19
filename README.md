@@ -21,7 +21,7 @@ The application is built using next-gen JavaScript features, which are transpile
 The application includes an install button that allows users to download the web application as an icon on their desktop or device.
 
 ## Deployment to Render
-
+Uses Render to deploy site.
 
 ## Credits
 
