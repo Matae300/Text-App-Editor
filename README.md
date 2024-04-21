@@ -2,7 +2,7 @@
 
 This is a text editor web application that includes various functionalities and features. Below are the acceptance criteria that the application meets:
 
-![screenshot](./Develop/client/src/images/screenshot.jpeg)
+![screenshot](./Develop/client/src/images/Screenshot_21-4-2024_162535_text-app-editor.onrender.com.jpeg)
 
 ## Folder Structure
 
